@@ -3,13 +3,13 @@ package com.mycompany.aplicacionclinica;
 public final class Paciente {
     
     // DECLARO LOS ATRIBUTOS CORRESPONDIENTES A LA CLASE DEL PACIENTE
-    private String nombre;
-    private String documento;
-    private int edad;
-    private String motivoConsulta;
-    private String telefonos;
-    private String tipoPaciente;
-    private String estado;
+    String nombre;
+    String documento;
+    int edad;
+    String motivoConsulta;
+    String telefonos;
+    String tipoPaciente;
+    String estado;
     
     
   
