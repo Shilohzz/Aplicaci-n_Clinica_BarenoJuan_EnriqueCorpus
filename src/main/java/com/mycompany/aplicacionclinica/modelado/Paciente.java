@@ -1,6 +1,6 @@
-package com.mycompany.aplicacionclinica;
+package com.mycompany.aplicacionclinica.modelado;
 
-public final class Paciente {
+public  class Paciente {
     
     // DECLARO LOS ATRIBUTOS CORRESPONDIENTES A LA CLASE DEL PACIENTE
     String nombre;
