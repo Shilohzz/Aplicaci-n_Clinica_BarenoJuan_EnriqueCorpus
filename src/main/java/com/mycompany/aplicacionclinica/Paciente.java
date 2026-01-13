@@ -10,10 +10,7 @@ public final class Paciente {
     String telefonos;
     String tipoPaciente;
     String estado;
-    
-    
-  
-    
+
     
     // CREO EL CONSTRUCTOR CON SUS ATRIBUTOS 
     public Paciente(String nombre, String documento, int edad, String motivoConsulta, String telefonos){
